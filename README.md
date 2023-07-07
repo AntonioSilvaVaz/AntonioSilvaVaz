@@ -6,9 +6,9 @@ Full Stack Developer
 
 Two years ago, I started programming (in Python), and after a few months of only studying that language, I decided to learn other languages, which led me to web development, and I have been constantly improving since then.
 
-* 🌍  I'm based in Portugal
+* 🌍  I'm based in Portugal 🇵🇹
 * ✉️  You can contact me at [antonioaugustosilvavaz@gmail.com](mailto:antonioaugustosilvavaz@gmail.com)
-<!--- (* ⚡ Penguins are nice, aren't they?)-->
+<!--- * ⚡ Penguins are nice, aren't they?🌊🎵-->
   
 ### Skills
 
