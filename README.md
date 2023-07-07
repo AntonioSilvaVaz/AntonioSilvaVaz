@@ -8,7 +8,7 @@ Two years ago, I started programming (in Python), and after a few months of only
 
 * 🌍  I'm based in Lisbon
 * ✉️  You can contact me at [antonioaugustosilvavaz@gmail.com](mailto:antonioaugustosilvavaz@gmail.com)
-* ⚡  Penguins are nice aren't they ![](https://em-content.zobj.net/source/joypixels-animations/366/penguin_1f427.gif).
+* ⚡ Penguins are nice, aren't they <img src="https://em-content.zobj.net/source/joypixels-animations/366/penguin_1f427.gif" alt="penguin" width="20" height="20" autoplay="true">.
 
 ### Skills
 
