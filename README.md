@@ -6,9 +6,9 @@ Full Stack Developer
 
 I am an experienced software developer primarily focused on JavaScript and other web technologies.
 
-<!-- * 🌍  I'm based in Portugal 🇵🇹 -->
-* ✉️  You can contact me at [antonioaugustosilvavaz@gmail.com](mailto:antonioaugustosilvavaz@gmail.com)
-<!--- * ⚡ Penguins are nice, aren't they?🌊🎵-->
+🌍  I'm based in Portugal 🇵🇹
+✉️  You can contact me at [antonioaugustosilvavaz@gmail.com](mailto:antonioaugustosilvavaz@gmail.com)
+<!--- * ⚡ Penguins are nice, aren't they?🌊🎵 -->
   
 ### Skills
 
